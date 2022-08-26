@@ -10,3 +10,5 @@ Original link
 https://github.com/czbeatty
 
 Some of the code may be different from what is in the instructions please use with caution 
+
+Remember that you are human, you will make mistakes and get frustrated,  trust me I do.
